@@ -1,4 +1,4 @@
-CYPTO_WEATHER
+crypto_weather_ETL
 
 This project is a multi-source ETL (Extract, Transform, Load) data pipeline built using Python. It collects real-time data from external APIs, processes it, and stores it in a relational database.
 
