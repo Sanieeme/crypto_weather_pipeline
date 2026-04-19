@@ -19,25 +19,9 @@ Add timestamps for tracking historical trends
 Load
 Store data in a SQLite database
 Use SQLAlchemy ORM for database interaction
-🛠️ Tech Stack
+> Tech Stack
 Python
 Pandas
 SQLAlchemy
 SQLite
 Requests
-📁 Project Structure
-crypto_weather_pipeline/
-│── db/
-│   ├── db_connection.py
-│   ├── models.py
-│   ├── init_db.py
-│── scripts/
-│   ├── extract_crypto.py
-│   ├── transform_crypto.py
-│   ├── load_crypto.py
-│   ├── extract_weather.py
-│   ├── transform_weather.py
-│   ├── load_weather.py
-│── main.py
-│── requirements.txt
-│── README.md
