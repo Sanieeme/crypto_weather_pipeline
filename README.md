@@ -28,7 +28,9 @@ Requests
 > Project Structure
 
 crypto_weather_pipeline/
+
 │── db/
+
 │   ├── db_connection.py
 │   ├── models.py
 │   ├── init_db.py
